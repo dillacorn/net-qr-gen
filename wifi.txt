@@ -1,0 +1,5 @@
+SSID=GUESTEXAMPLE
+PASS=your_password
+AUTH=WPA
+HIDDEN=true
+OUT=wifi-guest.png
