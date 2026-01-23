@@ -1,6 +1,6 @@
 ## Usage
 
-`bash-qr-gen` reads Wi-Fi details from a local text file and generates a scannable QR code.
+`net-qr-gen` reads Wi-Fi details from a local text file and generates a scannable QR code.
 No network access required. Secrets are never logged.
 
 ### Requirements
@@ -20,8 +20,8 @@ sudo pacman -S qrencode
 ### Setup
 
 ```bash
-git clone https://github.com/yourname/bash-qr-gen.git
-cd bash-qr-gen
+git clone https://github.com/yourname/net-qr-gen.git
+cd net-qr-gen
 chmod +x qr.sh
 ```
 
